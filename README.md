@@ -14,3 +14,5 @@ A small utility to profile the performance of your addons.
 ![imagen](https://user-images.githubusercontent.com/36610999/186217204-ffec3ef0-ee5f-47ee-9fc7-4f77b934bbdb.png)
 ![imagen](https://user-images.githubusercontent.com/36610999/186216741-d6bf06ad-c993-4a67-9ec4-7b2ea0b99aed.png)
 
+> ⚠️ Snakeviz only reports one top level function.
+
